@@ -1,0 +1,80 @@
+body {
+    background-image:url("https://www.xmple.com/wallpaper/blue-pink-gradient-linear-1920x1080-c2-ffb6c1-b0c4de-a-225-f-14.svg");
+}
+#event {
+    font-family:"VT323";
+    color:white;
+     text-align: center;
+     font-size: 60px;
+}
+#quote {
+font-family:"League Script";    
+text-align: center;
+color:white;
+font-size: 40px;
+}
+
+h2 {
+    font-family:"Henny Penny";
+    text-align: center;
+    color:#ff66cc;
+    font-size: 40px;
+    }
+
+.answer {
+    text-align:center;
+    font-size: 30px;
+    font-family:"Miniver";
+    color:#ee0ea7;
+}
+    
+a:hover { 
+    
+    background-color: pink;
+
+}
+
+button{
+    border-radius: 50%;
+    background-color: #ff66cc;
+    font-family: 
+    background-color: white;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    color: initial;
+    border-radius: 50%;
+    background-color: #ff66cc;
+    font-family: 
+    /* background-color: white; */
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#websites{
+    font-family:"Henny Penny";
+    text-align: center;
+    color:#ffffff;
+    font-size: 40px;
+}
